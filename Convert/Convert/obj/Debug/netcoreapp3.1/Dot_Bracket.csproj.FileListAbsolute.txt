@@ -1,0 +1,14 @@
+C:\Desktop\Dot_Bracket\Dot_Bracket\obj\Debug\netcoreapp3.1\Dot_Bracket.csproj.AssemblyReference.cache
+C:\Desktop\Dot_Bracket\Dot_Bracket\obj\Debug\netcoreapp3.1\Dot_Bracket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Dot_Bracket\Dot_Bracket\obj\Debug\netcoreapp3.1\Dot_Bracket.AssemblyInfoInputs.cache
+C:\Desktop\Dot_Bracket\Dot_Bracket\obj\Debug\netcoreapp3.1\Dot_Bracket.AssemblyInfo.cs
+C:\Desktop\Dot_Bracket\Dot_Bracket\obj\Debug\netcoreapp3.1\Dot_Bracket.csproj.CoreCompileInputs.cache
+C:\Desktop\Dot_Bracket\Dot_Bracket\bin\Debug\netcoreapp3.1\Dot_Bracket.exe
+C:\Desktop\Dot_Bracket\Dot_Bracket\bin\Debug\netcoreapp3.1\Dot_Bracket.deps.json
+C:\Desktop\Dot_Bracket\Dot_Bracket\bin\Debug\netcoreapp3.1\Dot_Bracket.runtimeconfig.json
+C:\Desktop\Dot_Bracket\Dot_Bracket\bin\Debug\netcoreapp3.1\Dot_Bracket.runtimeconfig.dev.json
+C:\Desktop\Dot_Bracket\Dot_Bracket\bin\Debug\netcoreapp3.1\Dot_Bracket.dll
+C:\Desktop\Dot_Bracket\Dot_Bracket\bin\Debug\netcoreapp3.1\Dot_Bracket.pdb
+C:\Desktop\Dot_Bracket\Dot_Bracket\obj\Debug\netcoreapp3.1\Dot_Bracket.dll
+C:\Desktop\Dot_Bracket\Dot_Bracket\obj\Debug\netcoreapp3.1\Dot_Bracket.pdb
+C:\Desktop\Dot_Bracket\Dot_Bracket\obj\Debug\netcoreapp3.1\Dot_Bracket.genruntimeconfig.cache
