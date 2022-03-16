@@ -1,0 +1,14 @@
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\bin\Debug\netcoreapp3.1\Hairpin.exe
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\bin\Debug\netcoreapp3.1\Hairpin.deps.json
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\bin\Debug\netcoreapp3.1\Hairpin.runtimeconfig.json
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\bin\Debug\netcoreapp3.1\Hairpin.runtimeconfig.dev.json
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\bin\Debug\netcoreapp3.1\Hairpin.dll
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\bin\Debug\netcoreapp3.1\Hairpin.pdb
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\obj\Debug\netcoreapp3.1\Hairpin.csproj.AssemblyReference.cache
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\obj\Debug\netcoreapp3.1\Hairpin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\obj\Debug\netcoreapp3.1\Hairpin.AssemblyInfoInputs.cache
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\obj\Debug\netcoreapp3.1\Hairpin.AssemblyInfo.cs
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\obj\Debug\netcoreapp3.1\Hairpin.csproj.CoreCompileInputs.cache
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\obj\Debug\netcoreapp3.1\Hairpin.dll
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\obj\Debug\netcoreapp3.1\Hairpin.pdb
+C:\Desktop\Struktura drugorzędowa RNA\Hairpin\Hairpin\obj\Debug\netcoreapp3.1\Hairpin.genruntimeconfig.cache
