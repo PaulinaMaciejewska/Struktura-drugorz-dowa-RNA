@@ -1,0 +1,14 @@
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\bin\Debug\netcoreapp3.1\Single strand.exe
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\bin\Debug\netcoreapp3.1\Single strand.deps.json
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\bin\Debug\netcoreapp3.1\Single strand.runtimeconfig.json
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\bin\Debug\netcoreapp3.1\Single strand.runtimeconfig.dev.json
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\bin\Debug\netcoreapp3.1\Single strand.dll
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\bin\Debug\netcoreapp3.1\Single strand.pdb
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\obj\Debug\netcoreapp3.1\Single strand.csproj.AssemblyReference.cache
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\obj\Debug\netcoreapp3.1\Single strand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\obj\Debug\netcoreapp3.1\Single strand.AssemblyInfoInputs.cache
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\obj\Debug\netcoreapp3.1\Single strand.AssemblyInfo.cs
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\obj\Debug\netcoreapp3.1\Single strand.csproj.CoreCompileInputs.cache
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\obj\Debug\netcoreapp3.1\Single strand.dll
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\obj\Debug\netcoreapp3.1\Single strand.pdb
+C:\Desktop\Struktura drugorzędowa RNA\Single strand\Single strand\obj\Debug\netcoreapp3.1\Single strand.genruntimeconfig.cache
