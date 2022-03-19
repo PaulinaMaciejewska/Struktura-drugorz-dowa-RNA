@@ -1,0 +1,14 @@
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\bin\Debug\netcoreapp3.1\Stems.exe
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\bin\Debug\netcoreapp3.1\Stems.deps.json
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\bin\Debug\netcoreapp3.1\Stems.runtimeconfig.json
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\bin\Debug\netcoreapp3.1\Stems.runtimeconfig.dev.json
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\bin\Debug\netcoreapp3.1\Stems.dll
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\bin\Debug\netcoreapp3.1\Stems.pdb
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\obj\Debug\netcoreapp3.1\Stems.csproj.AssemblyReference.cache
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\obj\Debug\netcoreapp3.1\Stems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\obj\Debug\netcoreapp3.1\Stems.AssemblyInfoInputs.cache
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\obj\Debug\netcoreapp3.1\Stems.AssemblyInfo.cs
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\obj\Debug\netcoreapp3.1\Stems.csproj.CoreCompileInputs.cache
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\obj\Debug\netcoreapp3.1\Stems.dll
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\obj\Debug\netcoreapp3.1\Stems.pdb
+C:\Desktop\Struktura drugorzędowa RNA\Stems\Stems\obj\Debug\netcoreapp3.1\Stems.genruntimeconfig.cache
