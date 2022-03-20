@@ -1,0 +1,14 @@
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.exe
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.deps.json
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.runtimeconfig.json
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.runtimeconfig.dev.json
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.dll
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.pdb
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.csproj.AssemblyReference.cache
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.AssemblyInfoInputs.cache
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.AssemblyInfo.cs
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.csproj.CoreCompileInputs.cache
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.dll
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.pdb
+C:\Desktop\Struktura drugorzędowa RNA\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.genruntimeconfig.cache
