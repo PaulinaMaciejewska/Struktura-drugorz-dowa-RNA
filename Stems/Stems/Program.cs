@@ -11,7 +11,6 @@ namespace Stems
         {
             foreach (string plik in Directory.GetFiles(Directory.GetCurrentDirectory(), "*.bpseq"))
             {
-                List<string> hairpins = new List<string>();
                 string plik2 = plik.Replace(".bpseq", ".stems");
                 string wynik = plik2;
                 FileStream fi = new FileStream(wynik, FileMode.Create, FileAccess.Write);
