@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Stems
+namespace Single_Strand
 {
     class Program
     {
