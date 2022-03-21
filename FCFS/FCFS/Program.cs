@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Stems
+namespace FCFS
 {
     class Program
     {
@@ -92,7 +92,7 @@ namespace Stems
                             }
                         }
                     }
-                    
+
 
                     List<int> order = new List<int>();
                     int order1 = 0;
@@ -104,22 +104,17 @@ namespace Stems
                         }
                         else
                         {
-                            for(int j=0; j<i; j++)
+                            for (int j = 0; j < i; j++)
                             {
                                 if (Convert.ToInt32(stemy[i][0]) > Convert.ToInt32(stemy[j][0]) && Convert.ToInt32(stemy[i][1]) < Convert.ToInt32(stemy[j][1])
                                     || Convert.ToInt32(stemy[i][0]) > Convert.ToInt32(stemy[j][1])
-                                    || Convert.ToInt32(stemy[i][0]) < Convert.ToInt32(stemy[j][0]) && Convert.ToInt32(stemy[i][1]) > Convert.ToInt32(stemy[j][1]))   
+                                    || Convert.ToInt32(stemy[i][0]) < Convert.ToInt32(stemy[j][0]) && Convert.ToInt32(stemy[i][1]) > Convert.ToInt32(stemy[j][1]))
                                 {
                                     order1 = order1;
                                 }
                                 else
                                 {
-                                    
-                                    if (order1 > order[j])
-                                    {
-                                        order1 = order1;
-                                    }
-                                    else
+                                    if (order1 == order[j])
                                     {
                                         order1 = order[j] + 1;
                                     }
@@ -128,7 +123,7 @@ namespace Stems
                             order.Add(order1);
                             order1 = 0;
                         }
-                }
+                    }
                     string dot_bracket = "";
                     string sekwencja = "";
 
@@ -139,9 +134,9 @@ namespace Stems
                         {
                             dot_bracket += ".";
                         }
-                        if(Convert.ToInt32(bpseq[i][0]) < Convert.ToInt32(bpseq[i][2]))
+                        if (Convert.ToInt32(bpseq[i][0]) < Convert.ToInt32(bpseq[i][2]))
                         {
-                            for(int j=0; j<stemy.Count; j++)
+                            for (int j = 0; j < stemy.Count; j++)
                             {
                                 if (bpseq[i][0] == stemy[j][0])
                                 {
@@ -182,46 +177,8 @@ namespace Stems
                                         }
                                         break;
                                     }
-                                    if (order[j] == 4)
-                                    {
-                                        while (counter < Convert.ToInt32(stemy[j][2]))
-                                        {
-                                            dot_bracket += "B";
-                                            counter++;
-                                        }
-                                        break;
-                                    }
-                                    if (order[j] == 5)
-                                    {
-                                        while (counter < Convert.ToInt32(stemy[j][2]))
-                                        {
-                                            dot_bracket += "C";
-                                            counter++;
-                                        }
-                                        break;
-                                    }
-                                    if (order[j] == 6)
-                                    {
-                                        while (counter < Convert.ToInt32(stemy[j][2]))
-                                        {
-                                            dot_bracket += "D";
-                                            counter++;
-                                        }
-                                        break;
-                                    }
-                                    if (order[j] == 7)
-                                    {
-                                        while (counter < Convert.ToInt32(stemy[j][2]))
-                                        {
-                                            dot_bracket += "E";
-                                            counter++;
-                                        }
-                                        break;
-                                    }
                                 }
                             }
-                            
-
                         }
                         else
                         {
@@ -266,58 +223,20 @@ namespace Stems
                                         }
                                         break;
                                     }
-                                    if (order[j] == 4)
-                                    {
-                                        while (counter < Convert.ToInt32(stemy[j][2]))
-                                        {
-                                            dot_bracket += "b";
-                                            counter++;
-                                        }
-                                        break;
-                                    }
-                                    if (order[j] == 5)
-                                    {
-                                        while (counter < Convert.ToInt32(stemy[j][2]))
-                                        {
-                                            dot_bracket += "c";
-                                            counter++;
-                                        }
-                                        break;
-                                    }
-                                    if (order[j] == 6)
-                                    {
-                                        while (counter < Convert.ToInt32(stemy[j][2]))
-                                        {
-                                            dot_bracket += "d";
-                                            counter++;
-                                        }
-                                        break;
-                                    }
-                                    if (order[j] == 7)
-                                    {
-                                        while (counter < Convert.ToInt32(stemy[j][2]))
-                                        {
-                                            dot_bracket += "e";
-                                            counter++;
-                                        }
-                                        break;
-                                    }
                                 }
                             }
                         }
-                        
-
                     }
                     Console.WriteLine(sekwencja);
                     Console.WriteLine(dot_bracket);
 
-                sw.WriteLine(sekwencja);
-                sw.WriteLine(dot_bracket);
+                    sw.WriteLine(sekwencja);
+                    sw.WriteLine(dot_bracket);
 
-                sw.Close();
-                fs.Close();
+                    sw.Close();
+                    fs.Close();
+                }
             }
         }
     }
-}
 }
